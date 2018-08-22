@@ -1,5 +1,12 @@
 # next_platform_database
 
+TO ADD YOUR WORK TO THE REPOSITORY, 
+Use the git_update script typing
+
+sh git_update.sh 
+
+in your terminal
+
 REMAINING WORK
 
 Should be deleted from the code
