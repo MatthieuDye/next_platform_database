@@ -3,6 +3,7 @@ How to read the uml diagram ?
 The diagram shows how we can read PMKB datasets with our tables.
 PMKB lists interpretions (lines) established for a certain gene, variants linked to this gene, some tissues types and tumor types. The interpretation describes how items interacts between each others, adding some citations.
 
+(cf https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391733/)
 
 whats happening for the tables
 
@@ -25,4 +26,4 @@ This table contains the name of human body parts.
 
 INTERPRETATION
 An interpretation shows a description about a certain gene, some variants linked to this gene (or all variants, depending), the tumor types and the tissues types concerned by the association, and gathers finally several citations.
-An interpretation 
+The tier is a category indicating how clinically actionable an interpretation is
